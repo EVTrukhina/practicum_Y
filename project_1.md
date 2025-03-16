@@ -1,3 +1,5 @@
+<div style="width:290px">
+
 # Спецификация требований к ПО Chatty 2.0 - Второй Релиз
 
 ## 1. Функциональные требования для карточек
@@ -128,3 +130,5 @@
 
 *   [Спецификация требований к ПО Chatty 2.0](https://docs.google.com/document/d/1O3HFFk2DKz68i4_8hmPJMCFsP2DfTuTo0pvNNiRrMAs)  // Замените на свой URL
 *   [Обновленная Use Case Diagram UML](https://drive.google.com/file/d/1MyIoIDwP06dzd-qKsJThMWKq2cJ7Znh9) // Замените на свой URL (или описание)
+
+</div>
