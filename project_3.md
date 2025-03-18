@@ -44,7 +44,7 @@
 
 </details>
 
-![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/BPMN%20TO-BE%20клиника%20Вита.png)
+![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/BPMN%20AS-IS%20клиника%20Вита.png)
 <p align="center">Рис. 1. BPMN AS-IS, клиника «Вита»</p>
 
 
