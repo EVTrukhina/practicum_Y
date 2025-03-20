@@ -49,7 +49,7 @@
 </details>
 
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/BPMN%20AS-IS%20клиника%20Вита.png)
-<p align="center">Рис. 1. BPMN AS-IS </p>
+<p align="center">Рис. 1. BPMN AS-IS «Приём у врача в медицинской клинике» </p>
 
 
 В BPMN TO-BE предлагается автоматизировать:
@@ -62,7 +62,7 @@
 
 
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/BPMN%20TO-BE%20клиника%20Вита.png)
-<p align="center">Рис. 2. BPMN TO-BE </p>
+<p align="center">Рис. 2. BPMN TO-BE «Приём у врача в медицинской клинике» </p>
 
 
 На основе интервью и составлена AS-IS UML State Machine диаграмма, отражающая текущий процесс приема пациента.
