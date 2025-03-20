@@ -22,4 +22,4 @@
 Смоделировала процессы, используя диаграмму потоков данных (DFD). 
 
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20контекстная%20клиника.png)
-<p align="center">Рис 1. </p>
+<p align="center">Рис 1. DFD контекстного уровня </p>
