@@ -23,3 +23,7 @@
 
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20контекстная%20клиника.png)
 <p align="center">Рис 1. DFD контекстного уровня </p>
+
+![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20логическая.png)
+<p align="center">Рис 2. DFD логического уровня </p>
+
