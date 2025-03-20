@@ -61,7 +61,7 @@
 <p align="center">Рис. 2. BPMN TO-BE, клиника «Вита»</p>
 
 
-На основе интервью и заметок Айгуль составлена AS-IS UML State Machine диаграмма, отражающая текущий процесс приема пациента.
+На основе интервью и составлена AS-IS UML State Machine диаграмма, отражающая текущий процесс приема пациента.
 
 
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/UML%20State%20Machine%20Diagram%20клиника%20Вита.png)
