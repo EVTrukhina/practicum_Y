@@ -106,3 +106,5 @@
   *   SSH: с Amazon S3
   *   TCP/IP: к базам данных
 </details>
+
+### Проектирование API
