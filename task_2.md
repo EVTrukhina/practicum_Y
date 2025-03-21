@@ -45,3 +45,5 @@
 
 
 ### Проектирование API
+
+![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/Макет%20LUCKY.png)
