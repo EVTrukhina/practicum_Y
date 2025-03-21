@@ -12,4 +12,4 @@
 
 
 ## Процесс работы
-Проведен анализ представленного [интервью с заинтересованными лицами](https://docs.google.com/document/d/1cKapG1cH4Fv04UFsRkv0Bl2ugs78g-yjV7koLaKff0U/edit?usp=sharing), чтобы выяснить требования заказчика
+Проведен анализ представленного [интервью с заказчиком](https://docs.google.com/document/d/1cKapG1cH4Fv04UFsRkv0Bl2ugs78g-yjV7koLaKff0U/edit?usp=sharing), чтобы выяснить требования заказчика
