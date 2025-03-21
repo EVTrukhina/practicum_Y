@@ -8,3 +8,6 @@
 
 Проведен анализ [расшифровки встречи с архитектором](https://docs.google.com/document/d/1E1FYjQ4kXn_VuqZVjIv0X3Ml3IWQyWHXB57RJsv5UsM/edit?usp=sharing). Доработана контекстная диаграмма системы (C4).
 Контекстная диаграмма C4 была дополнена описаниями каждого компонента (Mobile App, API Gateway, и т.д.) и связей между ними, с указанием используемых протоколов (REST, TCP, SFTP).
+
+![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/Модель%20С4%20диаграмма%20для%20LUCKY.png)
+<p align="center">Рис 1. Модель С4 </p>
