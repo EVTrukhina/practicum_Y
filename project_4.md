@@ -39,4 +39,4 @@
 Сделана диаграмма последовательности, иллюстрирующая процесс фильтрации и последующей сортировки списка фильмов и сериалов.
 
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/Диаграмма%20последовательности%20Otium.png)
-<p align="center">Рис 2. Обновленная Use Case Diagram UML (видео)</p>
+<p align="center">Рис 1. UML Sequence Diagram</p>
