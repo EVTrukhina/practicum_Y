@@ -61,3 +61,4 @@
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/ER-диаграмма.png)
 <p align="center">Рис 3. Логическая ER-модель в 3НФ </p>
 
+### Словарь данных
