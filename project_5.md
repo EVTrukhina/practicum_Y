@@ -58,6 +58,6 @@
 ### Логическая ER-модель в 3 НФ
 
 Смоделирована структура данных с использованием логической ER-диаграммы в нотации Crow's Foot (нотация Мартина).
-![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/ER-диаграмма%20Stets.png)
+![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/ER-диаграмма.png)
 <p align="center">Рис 3. Логическая ER-модель в 3НФ </p>
 
