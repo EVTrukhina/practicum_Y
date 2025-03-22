@@ -79,3 +79,47 @@
 ### Контекст
 
 В ответе запроса `{{FilmsServer}}/films/list` и `{{SeriesServer}}/series/list` уже есть рейтинг зрителей `rating`, по которому также нужно будет выполнять сортировку.
+
+## Операции Films Server API
+
+1.1. В ответ `{{FilmsServer}}/films/list` в объект с детальным описанием каждого фильма необходимо добавить новое опциональное поле `criticsRating`. Поле должно заполняться данными о рейтинге кинокритиков.
+
+**Тип метода:** GET
+
+**URL запроса:** `/films/list`
+
+**Параметры запроса:** -
+
+**Пример запроса:** `https://2ee4902e-6893-4bf2-9b6f-88b9f5fcb78a.mock.pstmn.io/films/list`
+
+**Элементы тела запроса:** -
+
+**Пример ответа:**
+
+```json
+[
+   {
+       "id": 101,
+       "type": "film",
+       "title": "Хосэ Каньон",
+       "description": "Хосэ Каньон — добрый и открытый парень — устроился в офис электриком и рассказывает коллегам историю своей необыкновенной жизни.",
+       "imageUrl": "https://otium.imagestorage.ru/JoseCanyon.img",
+       "previewUrl": "https://otium.previewstorage.ru/JoseCanyon.mov",
+       "recordUrl": "https://otium.recordstorage.ru/JoseCanyon.mov",
+       "genre": [
+           "comedy"
+       ],
+       "recommended": true,
+       "details": {
+           "yearOfIssue": "1995",
+           "duration": 152,
+           "country": [
+               "США"
+           ],
+           "ageRate": "16+"
+       },
+       "rating": 9.4,
+       "criticsRating": 7.4
+   }
+]
+
