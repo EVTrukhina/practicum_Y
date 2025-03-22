@@ -186,8 +186,8 @@
 
 ### Разработка прототипа
 
-Спроектированы раскадровки (сториборды) в [Figma](https://www.figma.com/design/fUxcfzLGlIDoNIDEB0oE5N/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets.-%D0%A2%D1%80%D1%83%D1%85%D0%B8%D0%BD%D0%BE%D0%B9-%D0%95%D0%BB%D0%B5%D0%BD%D1%8B?node-id=4-581&t=pKLSxZlJKU8wwBBU-1) для всех функций приложения, включенных в MVP, с учетом диаграммы потоков данных.
+Спроектированы раскадровки (сториборды) в [Figma](https://www.figma.com/design/fUxcfzLGlIDoNIDEB0oE5N/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0-Stets.-%D0%A2%D1%80%D1%83%D1%85%D0%B8%D0%BD%D0%BE%D0%B9-%D0%95%D0%BB%D0%B5%D0%BD%D1%8B?node-id=4-581&t=pKLSxZlJKU8wwBBU-1) для всех функций приложения, включенных в MVP, с учетом диаграммы потоков данных и логической модели данных.
 
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/Формирование%20устройств%20в%20доме.png)
-<p align="center">Рис 3. Логическая ER-модель в 3НФ </p>
+<p align="center">Рис 4. Прототип: Формирование устройств в доме </p>
 
