@@ -306,4 +306,148 @@
 *   Если `"direction": "desc"`, внутри массива элементы должны сортироваться по параметру `sortBy` по убыванию.
 *   Если `"direction": "asc"`, внутри массива элементы должны сортироваться по параметру `sortBy` по возрастанию.
 
+**Тип метода:** GET
+
+**URL запроса:** `/content/list`
+
+**Параметры запроса, которые нужно добавить:**
+
+*   **`sortBy`**: (Query Parameter)
+    *   Тип: `string`
+    *   Обязательность: Необязателен
+    *   Описание: Параметр сортировки.
+        *   Варианты значений: `rating`, `criticsRating`
+*   **`direction`**: (Query Parameter)
+    *   Тип: `string`
+    *   Обязательность: Необязателен
+    *   Описание: Направление сортировки.
+        *   Варианты значений: `desc`, `asc`
+
+**Пример запроса:** `https://2ee4902e-6893-4bf2-9b6f-88b9f5fcb78a.mock.pstmn.io/content/list?sortBy=criticsRating&direction=asc`
+
+**Элементы тела запроса:** -
+
+**Пример ответа:**
+
+```json
+[
+  {
+    "id": 201,
+    "type": "serie",
+    "title": "Индийский океан и я",
+    "description": "Погрузитесь в веселые приключения на берегу Индийского океана, где дети вместе с местными животными учатся ценить природу и дружбу.",
+    "imageUrl": "https://otium.imagestorage.ru/IndianOcean&I.img",
+    "previewUrl": "https://otium.previewstorage.ru/IndianOcean&I.mov",
+    "recordUrl": "https://otium.recordstorage.ru/IndianOcean&I.mov",
+    "genre": [
+      "kids"
+    ],
+    "recommended": false,
+    "details": {
+      "year Of Issue": "2015",
+      "episodesCount": 4,
+      "country": [
+        "Индонезия"
+      ],
+      "ageRate": "6+"
+    },
+    "rating": 7.5,
+    "criticsRating": 7.4
+  },
+  {
+    "id": 101,
+    "type": "film",
+    "title": "Хосе Каньон",
+    "description": "Хосе Каньон — добрый и открытый парень — устроился в офис электриком и рассказывает коллегам историю своей необыкновенной жизни.",
+    "imageUrl": "https://otium.imagestorage.ru/JoseCanyon.img",
+    "previewUrl": "https://otium.previewstorage.ru/JoseCanyon.mov",
+    "recordUrl": "https://otium.recordstorage.ru/JoseCanyon.mov",
+    "genre": [
+      "comedy"
+    ],
+    "recommended": true,
+    "details": {
+      "yearOfIssue": "1995",
+      "duration": 152,
+      "country": [
+        "США"
+      ],
+      "ageRate": "16+"
+    },
+    "rating": 9.4,
+    "criticsRating": 8.5
+  }
+]
+
+```
+| Элементы ответа | Тип    | Обязательность | Описание                                                              |Ошибки
+|-----------------|--------|-----------------|---------------------------------------------------------------------|-----------------|
+| `criticsRating` | `number` | Необязателен   | Рейтинг кинокритиков, возможные значения от 0 до 10.               |Изменения не требуются | 
+
+#### 3.2. В ответ {{WebServer}}/​​content/list добавить новое поле criticsRating. 
+
+**Тип метода:** GET
+
+**URL запроса:** `/content/list`
+
+**Параметры запроса:** -
+
+**Пример запроса:** -
+
+**Элементы тела запроса:** -
+
+**Пример ответа:**
+
+```json
+[
+  {
+    "id": 104,
+    "type": "film",
+    "title": "Ребус Атлантиды",
+    "description": "Археолога подозревают в преступлении, которого он не совершал. Герой знакомится с историком турецкой полиции Шехер Джан, вместе они пытаются раскрыть тайну.",
+    "imageUrl": "https://otium.imagestorage.ru/RebusOfAtlantis.img",
+    "previewUrl": "https://otium.previewstorage.ru/RebusOfAtlantis.mov",
+    "recordUrl": "https://otium.recordstorage.ru/RebusOfAtlantis.mov",
+    "genre": [
+      "thriller, mystery"
+    ],
+    "recommended": true,
+    "details": {
+      "yearOfIssue": "2007",
+      "duration": 159,
+      "country": [
+        "Великобритания, Турция, США"
+      ],
+      "ageRate": "12+"
+    },
+    "language": {
+      "original": [
+        "английский, турецкий"
+      ],
+      "sound": [
+        "русский, английский"
+      ],
+      "subtitle": [
+        "русский, английский, турецкий"
+      ]
+    },
+    "team": {
+      "cast": [
+        "Джон Джэксон, Айше Болат"
+      ],
+      "dubbingTeam": [
+        null
+      ]
+    },
+    "rating": 6.5,
+    "criticsRating": 7.4
+  }
+]
+```
+| Элементы ответа | Тип    | Обязательность | Описание                                                              |Ошибки
+|-----------------|--------|-----------------|---------------------------------------------------------------------|-----------------|
+| `criticsRating` | `number` | Необязателен   | Рейтинг кинокритиков, возможные значения от 0 до 10.               |Изменения не требуются | 
+
+#### 3.3. В ответ {{WebServer}}/content/details добавить новое поле criticsRating.
+
 
