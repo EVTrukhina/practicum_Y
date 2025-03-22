@@ -450,4 +450,64 @@
 
 #### 3.3. В ответ {{WebServer}}/content/details добавить новое поле criticsRating.
 
+**Тип метода:** GET
 
+**URL запроса:** `/content/details`
+
+**Параметры запроса:** -
+
+**Пример запроса:** `https://2ee4902e-6893-4bf2-9b6f-88b9f5fcb78a.mock.pstmn.io/content/details?type=film&id=104`
+
+**Элементы тела запроса:** -
+
+**Пример ответа:**
+
+```json
+[
+  {
+    "id": "104",
+    "type": "film",
+    "title": "Ребус Атлантиды",
+    "description": "Археолога подозревают в преступлении, которого он не совершал. Герой знакомится с историком турецкой полиции Шехер Джан, вместе они пытаются раскрыть тайну.",
+    "imageUrl": "https://otium.imagestorage.ru/RebusOfAtlantis.img",
+    "previewUrl": "https://otium.previewstorage.ru/RebusOfAtlantis.mov",
+    "recordUrl": "https://otium.recordstorage.ru/RebusOfAtlantis.mov",
+    "genre": [
+      "thriller, mystery"
+    ],
+    "recommended": true,
+    "details": {
+      "yearOfIssue": "2007",
+      "duration": 159,
+      "country": [
+        "Великобритания, Турция, США"
+      ],
+      "ageRate": "12+"
+    },
+    "language": {
+      "original": [
+        "английский, турецкий"
+      ],
+      "sound": [
+        "русский, английский"
+      ],
+      "subtitle": [
+        "русский, английский, турецкий"
+      ]
+    },
+    "team": {
+      "cast": [
+        "Джон Джэксон, Айше Болат"
+      ],
+      "dubbingTeam": [
+        null
+      ]
+    },
+    "rating": 6.5,
+    "criticsRating": 7.4
+  }
+]
+```
+| Элементы ответа | Тип    | Обязательность | Описание                                                              |Ошибки
+|-----------------|--------|-----------------|---------------------------------------------------------------------|-----------------|
+| `criticsRating` | `number` | Необязателен   | Рейтинг кинокритиков, возможные значения от 0 до 10.               |Изменения не требуются | 
