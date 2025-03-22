@@ -51,8 +51,7 @@
 <p align="center">Рис 1. DFD контекстного уровня </p>
 
 
-![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20логическая.png)
+![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20логическая%20Stets.png)
 <p align="center">Рис 2. DFD логического уровня </p>
 
 
-https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20диаграмма%20контекстная%20%20Stets.png
