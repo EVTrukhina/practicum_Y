@@ -113,7 +113,7 @@
 
 Процессы смоделированы с использованием диаграммы потоков данных (DFD).
 
-![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20контекстная%20Stets.png)
+![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/DFD%20контекстная.png)
 <p align="center">Рис 1. DFD контекстного уровня </p>
 
 
