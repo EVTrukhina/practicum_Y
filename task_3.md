@@ -33,4 +33,5 @@
 Оформила [руководство пользователя](https://docs.google.com/document/d/1GQAcUklZHk3yB9I_g3libIv5hpxtc3Zn-eZhj6eK2ks/edit?usp=sharing) сервиса бронирования в соответствии с ГОСТ 19, включающее подробное описание всех функций, доступных пользователю на сайте.  Документ содержит пошаговые инструкции и скриншоты для каждой функции, что обеспечивает удобство и понятность использования сервиса.
 
 
-[Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/project_1.md)  
+[Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/task_2.md) | [Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/project_1.md) 
+
