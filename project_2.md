@@ -93,4 +93,5 @@
 ## Ссылки на документы
 
 *   [Спецификация требований к ПО Накарабине](https://docs.google.com/document/d/107EXPVnw_AmJjyhJLbln0gAJQz-442bz-lB_EVDmZ7Q/edit?usp=sharing)  
-  
+
+[Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/project_1.md) | [Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/project_3.md)
