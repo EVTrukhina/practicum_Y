@@ -205,7 +205,6 @@
 *   Заполнены все пункты шаблона ПМИ, адаптированные под особенности разработанного прототипа;
 *   В ПМИ отражены основные функции MVP.
 
-  Проект 5
 
 [Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/project_4.md) | [Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/task_1.md)
 
