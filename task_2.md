@@ -196,3 +196,8 @@ components:
           type: string 
           description: Период страхования
           example: в год
+
+```
+
+[Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/task_1.md) | [Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/task_3.md) 
+
