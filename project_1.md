@@ -159,3 +159,4 @@
 *   [Спецификация требований к ПО Chatty 2.0](https://docs.google.com/document/d/1O3HFFk2DKz68i4_8hmPJMCFsP2DfTuTo0pvNNiRrMAs)  
 *   [Обновленная Use Case Diagram UML](https://drive.google.com/file/d/1MyIoIDwP06dzd-qKsJThMWKq2cJ7Znh9) 
 
+[Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/project_2.md)
