@@ -31,3 +31,4 @@
 
 Спроектированы раскадровки (сториборды) в [Figma](https://www.figma.com/design/yZhgnUkSnIn2mves1XnrgR/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-3?node-id=804-632&t=by88asUpoCzUJrwt-1) для всех функций приложения, включенных в MVP, с учетом диаграммы потоков данных.
 
+[Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/project_2.md) | [Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/project_4.md)
