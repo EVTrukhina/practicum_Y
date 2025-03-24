@@ -97,4 +97,4 @@
 ![Обновленная диаграмма UML](https://github.com/EVTrukhina/practicum_Y/blob/main/Приложение%20клиники.png)
 
 
-
+[Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/project_5.md) | [Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/task_2.md) 
