@@ -95,3 +95,6 @@
 
 **UI Макет:** [ссылка](https://www.figma.com/design/UVubCChMXKksUPdVwVvLeU/Distant?node-id=5076-4&t=2chQheQgQfuuIVVQ-1)
 
+![Диаграмма последовательности для задачи 2 и 2.1](https://github.com/EVTrukhina/practicum_Y/blob/main/задача%202%20min.png)
+<p align="center">Рис 2. Диаграмма последовательности для задачи 2 и 2.1 </p>
+
