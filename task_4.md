@@ -121,3 +121,7 @@
 
 **UI Макет:** [ссылка](https://www.figma.com/design/UVubCChMXKksUPdVwVvLeU/Distant?node-id=5076-458&t=2chQheQgQfuuIVVQ-1)
 
+[Назад](https://github.com/EVTrukhina/practicum_Y/blob/main/task_3.md) | [Дальше](https://github.com/EVTrukhina/practicum_Y/blob/main/project_1.md) 
+
+
+
